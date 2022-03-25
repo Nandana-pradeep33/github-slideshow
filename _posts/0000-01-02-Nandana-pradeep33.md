@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hii I am Nandana Pradeep 
+" Hardwork make your way to success easier"
 Use the left arrow to go back!
